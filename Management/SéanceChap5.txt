@@ -1,1 +1,31 @@
-test
+
+CHAPITRE 5 : CHOISIR LA STRUCTURE
+
+LA RAISON D’ETRE D’UNE STRUCTURE
+1- La raison d'etre d'une structure : 
+La structure d'une entreprise est chématisé dans les organigrames
+DEFINITION DU ROLE DE LA STRUCTURE
+Mintzberg : La définition de la structure, 'c'est la somme total des moyens employés pour diviser le travail en tache distincte et pour ensuite assurer  la coordination entre les tache '
+LA SPECIALISATION
+Diviser les taches: dans l'netreprise on a besoin de spécialisation de compétence spécifique. Ex le marketing, ce besoin de spécialisation est de plus en plus élevé pour garder la compétitivité de l'entreprise. Cette spécialisation va entrainer un découpage des activités.
+Le risque est de créer des compartiments indépendant qui nous pas de liens risque créer des cloisonement.
+Cette spécialisation nuit au travail collaboratif et à la choérence de l'innovation
+LA COORDINATION
+La coordination c'est un liens qui permet de réunir tous ces élements. Minezberg propose plusieurs mécanisme de coordination, il ya la standardisation. Elle concerne les qualifications. La supervision direct est un moyen de coordination que le n+1 uttilise avec c'es équipe.
+Ajutement mutuel 
+Aujourd'hui les nouvel technologies permette la coordination de l'ensemble de l'entrerprise y compris 
+
+LES FACTEURS DETERMINANT LE CHOIX DE LA STRUCTURE
+
+LA HAUTEUR DE LA PYRAMIDE
+LE DEGRE DE CENTRALISATION DES DECISIONS
+LE DEVELOPPEMENT DES LIENS ORGANISATIONNELS
+LE RAPPORT : FONCTIONNELS/OPERATIONNELS
+L’APTITUDE AU CHANGEMENT
+
+LES DIFFERENTS TYPES DE STRUCTURES
+MODELES CLASSIQUES
+LES CONFIGURATIONS DE MINTZBERG
+LES CONFIGURATIONS FLEXIBLES
+
+
